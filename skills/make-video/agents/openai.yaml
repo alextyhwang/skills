@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Video"
+  short_description: "Edit photos and footage into polished music videos"
+  default_prompt: "Use $make-video to turn my photos, footage, and music into a polished video."
